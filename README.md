@@ -4,4 +4,7 @@
 1. Easy: simple platforming
 2. Intermediate: a riddle (Hint: look at coins!)
 3. Hard: precise platforming where you gather blue coins
+#
+(You can go to the hub by pressing esc or right menu button on the gamepad) 
 # Get all the trophies, Good luck! 
+The Game supports gamepad and keyboard inputs.
